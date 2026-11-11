@@ -5,7 +5,7 @@ This is my nonsense goals, i got no clue what my future is gonna be, i'm doing w
 ## Projects
 | # | Project | Tools | Status |
 |---|---|---|---|
-| 1 | Pizza Place Sales dashboard | Excel, Power Query, Looker Studio | In progress |
+| 1 | Pizza Place Sales dashboard | Excel, Power Query, Looker Studio | Done |
 
 *All projects are practice projects using public data.*
 
